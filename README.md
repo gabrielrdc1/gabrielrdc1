@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Gabriel+Cristo;Full+Stack+Developer;Especialista+em+VCL+%26+Firebird;Python+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
-</a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Gabriel+Cristo;Full+Stack+Developer;Especialista+em+VCL+%26+Firebird;Python+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+  </a>
   
   <p>
     <b>Desenvolvedor de Software | Delphi & Python Enthusiast</b>
@@ -29,15 +29,10 @@
 
 <div align="center">
   <img align="center" alt="Delphi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" />
-  
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
   <img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
   <img align="center" alt="Firebird" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/firebird-1.svg" />
-  
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
@@ -71,4 +66,10 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gabrielrdc1/gabrielrdc1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrielrdc1&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
