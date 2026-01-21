@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Gabriel+Cristo;Full+Stack+Developer;Especialista+em+VCL+%26+Firebird;Python+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Gabriel+Cristo;Full+Stack+Developer;VCL+%26+Firebird+Specialist;Python+%26+Automation" alt="Typing SVG" />
   </a>
   
   <p>
-    <b>Desenvolvedor de Software | Delphi & Python Enthusiast</b>
+    <b>Software Developer | Delphi & Python Enthusiast</b>
   </p>
 
   <div align="center">
@@ -19,13 +19,13 @@
 
 <br>
 
-> 💻 **Back-end Specialist:** Foco total em arquitetura robusta com **Delphi/Object Pascal** e **Firebird SQL** para soluções corporativas.
+> 💻 **Back-end Specialist:** Total focus on robust architecture using **Delphi/Object Pascal** and **Firebird SQL** for corporate solutions.
 >
-> 🧠 **Inovação:** Nas horas vagas, crio bots, scrapers e IAs usando **Python** e **TensorFlow**.
+> 🧠 **Innovation:** In my spare time, I create bots, scrapers, and AIs using **Python** and **TensorFlow**.
 
 <br>
 
-### 🛠️ Stack Principal
+### 🛠️ Tech Stack
 
 <div align="center">
   <img align="center" alt="Delphi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" />
@@ -38,27 +38,27 @@
 
 <hr>
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-#### 🏢 Sistemas Corporativos
+#### 🏢 Enterprise Solutions
 * **[MiniERP-Delphi](https://github.com/gabrielrdc1/MiniERP-Delphi)**
-  <br>Sistema de Gestão completo (VCL + Firebird). Foco em arquitetura MVC, CRUD profissional e UX moderna.
+  <br>Complete ERP System (VCL + Firebird). Focus on MVC architecture, professional CRUD, and modern UX.
 * **[Cadastro-Consulta-Odontologica](https://github.com/gabrielrdc1/Cadastro-Consulta-Odontologica)**
-  <br>Sistema Fullstack (Python/Flask + JS) para gestão de consultórios.
+  <br>Fullstack System (Python/Flask + JS) for dental office management.
 
-#### 🧠 Inteligência Artificial & Inovação
+#### 🧠 AI & Innovation
 * **[Estilista-Virtual](https://github.com/gabrielrdc1/estilista-virtual)**
-  <br>Classificação de roupas e cores via Deep Learning (MobileNetV2) e KMeans.
+  <br>Clothing and color classification via Deep Learning (MobileNetV2) and KMeans.
 * **[Sign-Language-Letters](https://github.com/gabrielrdc1/Sign-Language-Letters-Recognition)**
-  <br>Reconhecimento de LIBRAS em tempo real usando TensorFlow e OpenCV.
+  <br>Real-time Sign Language recognition using TensorFlow and OpenCV.
 
 #### 🎮 Mobile & Games
-* **[CampusFinder](https://github.com/gabrielrdc1/CampusFinder)** (Android/Java) - App publicado na PlayStore.
-* **[Emotions3D](https://github.com/gabrielrdc1/Emotions3D)** (Unity/C#) - Jogo educacional 3D.
+* **[CampusFinder](https://github.com/gabrielrdc1/CampusFinder)** (Android/Java) - App published on the PlayStore.
+* **[Emotions3D](https://github.com/gabrielrdc1/Emotions3D)** (Unity/C#) - 3D educational game.
 
 <hr>
 
-### 📊 Estatísticas & Atividade
+### 📊 Statistics & Activity
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrdc1&layout=compact&theme=dracula&hide_border=true&langs_count=6&exclude_repo=Exercise-Recommendation-App-Using-Expert-Systems"/>
