@@ -28,11 +28,16 @@
 ### 🛠️ Stack Principal
 
 <div align="center">
-  <img align="center" alt="Delphi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="Delphi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" />
+  
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Firebird" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  
+  <img align="center" alt="Firebird" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/firebird-1.svg" />
+  
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
