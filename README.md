@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Ol%C3%A1,+eu+sou+o+Gabriel+Cristo!;Dev+Delphi;Apaixonado+por+Python+%26+IA;Sempre+codando+algo+novo..." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Gabriel+Cristo;Full+Stack+Developer;Especialista+em+VCL+%26+Firebird;Python+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+</a>
   
   <p>
     <b>Desenvolvedor de Software | Delphi & Python Enthusiast</b>
