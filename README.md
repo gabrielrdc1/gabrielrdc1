@@ -1,69 +1,47 @@
 <div align="center">
-  <h1>Olá, eu sou o Gabriel Cristo! 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Ol%C3%A1,+eu+sou+o+Gabriel+Cristo!;Dev+Delphi+%26+Firebird;Apaixonado+por+Python+%26+IA;Sempre+codando+algo+novo..." alt="Typing SVG" />
+  </a>
+
   <p>
     <b>Desenvolvedor de Software | Delphi & Python Enthusiast</b>
   </p>
-  <p>
-    Focado em criar soluções robustas, com forte expertise em desenvolvimento Desktop corporativo e 
-    explorando fronteiras em Inteligência Artificial e Desenvolvimento Web.
-  </p>
   
   <a href="https://www.linkedin.com/in/gabriel-carvalho-755aa925a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu_email_aqui@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
-<hr>
+<br>
 
-### 🛠️ Tech Stack
-
-**Linguagens & Core:**
-<div style="display: inline_block">
-  <img align="center" alt="Delphi" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
-  <img align="center" alt="Pascal" src="https://img.shields.io/badge/Pascal-fluorescent?style=for-the-badge&logo=pascal&logoColor=black" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div>
+> 💻 **Back-end Specialist:** Foco total em arquitetura robusta com **Delphi/Object Pascal** e **Firebird SQL** para soluções corporativas.
+>
+> 🧠 **Inovação:** Nas horas vagas, crio bots, scrapers e IAs usando **Python** e **TensorFlow**.
 
 <br>
 
-**Banco de Dados & Web:**
-<div style="display: inline_block">
-  <img align="center" alt="Firebird" src="https://img.shields.io/badge/Firebird-FF0000?style=for-the-badge&logo=firebird&logoColor=white" />
-  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
-
-<br>
-
-**IA & Outros:**
-<div style="display: inline_block">
-  <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<hr>
-
-### 🚀 Projetos em Destaque
-
-#### 🏢 Sistemas Corporativos & Gestão
-* **[MiniERP-Delphi](https://github.com/gabrielrdc1/MiniERP-Delphi)**: Sistema de Gestão completo utilizando VCL e Firebird. Foco em arquitetura MVC, CRUD profissional e UX moderna.
-* **[Cadastro-Consulta-Odontologica](https://github.com/gabrielrdc1/Cadastro-Consulta-Odontologica)**: Sistema Fullstack (Python/Flask + JS) para gestão de consultórios.
-
-#### 🧠 Inteligência Artificial & Data Science
-* **[Estilista-Virtual](https://github.com/gabrielrdc1/estilista-virtual)**: Classificação de roupas e cores via Deep Learning (MobileNetV2) e KMeans.
-* **[Sign-Language-Letters-Recognition](https://github.com/gabrielrdc1/Sign-Language-Letters-Recognition)**: Reconhecimento de LIBRAS em tempo real usando TensorFlow e OpenCV.
-* **[Exercise-Recommendation-App](https://github.com/gabrielrdc1/Exercise-Recommendation-App-Using-Expert-Systems)**: Sistema especialista para recomendação de exercícios físicos.
-
-#### 🎮 Mobile & Games
-* **[CampusFinder](https://github.com/gabrielrdc1/CampusFinder)**: App Android (Java) publicado na PlayStore para auxiliar estudantes.
-* **[Emotions3D](https://github.com/gabrielrdc1/Emotions3D)**: Jogo educacional 3D desenvolvido em Unity/C#.
-
-<hr>
+### 🛠️ Arsenal Tecnológico
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielrdc1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrdc1&layout=compact&theme=tokyonight"/>
+  <img align="center" alt="Delphi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Firebird" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+<br>
+
+### 📊 Minha Produtividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrdc1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrdc1&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/gabrielrdc1/gabrielrdc1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
