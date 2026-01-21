@@ -61,7 +61,7 @@
 ### 📊 Estatísticas & Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrdc1&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrdc1&layout=compact&theme=dracula&hide_border=true&langs_count=6&exclude_repo=Exercise-Recommendation-App-Using-Expert-Systems"/>
 </div>
 
 <div align="center">
