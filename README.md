@@ -61,11 +61,9 @@
 ### 📊 Statistics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielrdc1&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielrdc1&show_icons=true&theme=dracula&hide_border=true&exclude_repo=Exercise-Recommendation-App-Using-Expert-Systems" height="150" alt="stats"/>
   &nbsp; 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrdc1&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrdc1&layout=compact&theme=dracula&hide_border=true&langs_count=6&exclude_repo=Exercise-Recommendation-App-Using-Expert-Systems" height="150" alt="languages"/>
 </div>
 
 <br>
