@@ -61,8 +61,14 @@
 ### 📊 Statistics & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrdc1&layout=compact&theme=dracula&hide_border=true&langs_count=6&exclude_repo=Exercise-Recommendation-App-Using-Expert-Systems"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielrdc1&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats"/>
+  
+  &nbsp; 
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrdc1&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages"/>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gabrielrdc1/gabrielrdc1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
